@@ -77,6 +77,7 @@ conda activate your_env_name
 datasets/
 ├── val/               # Images used for detection
 ├── insert/            # New images and annotations for training
+├── train/             # Images used for train
 results/
 └── SAIM/
     └── images/        # Detection output results
